@@ -13,8 +13,5 @@ Enthusiastic about how technology improves people's daily lives. I'm a DigitalHo
 <hr>
 
 
-### ⚙️ &nbsp; Git Analytics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wellboorati&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellboorati&theme=dark&layout=compact" width="410" /></p>
 
