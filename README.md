@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a software engineer with 3 years of experience in full-stack development. My expertise lies in JavaScript, particularly Node.js and React, and I have a strong proficiency in TypeScript. I'm passionate about creating clean, efficient, and scalable code to build robust applications.
+I'm a software engineer with experience in full-stack development. My expertise lies in JavaScript, particularly Node.js and React, and I have a strong proficiency in TypeScript. I'm passionate about creating clean, efficient, and scalable code to build robust applications.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [well\_boorati@hotmail.com](mailto:well_boorati@hotmail.com)
